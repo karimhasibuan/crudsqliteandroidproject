@@ -1,4 +1,4 @@
-<h1>Membuat CRUD di Android Studio dengan SQLite</h1>
+<h1>Membuat CRUD SQLite Android Studio</h1>
 <br>
 <br>
 File project berada di crudsqlite.zip
